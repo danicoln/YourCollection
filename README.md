@@ -1,5 +1,5 @@
 # YourCollection
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/danicoln/PriceOfYourProduct/blob/main/LICENCE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/danicoln/YourCollection/compare/main...add-license-1?quick_pull=1)
 
 # Sobre o projeto
 
